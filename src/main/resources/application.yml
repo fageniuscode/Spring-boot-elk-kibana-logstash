@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: SPRING-ELK-KIBANA-LOGSTASH
+
+server:
+  port: 9898
+logging:
+  file:
+    name: C:/m2gl/kibana/spring-elk-kibana-logstash.log
